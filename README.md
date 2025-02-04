@@ -53,4 +53,4 @@ Para iniciar o serviço produtor, execute:
 
 ```
 npm run start:consumer
-```# eda
+```
