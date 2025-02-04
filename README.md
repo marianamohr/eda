@@ -21,7 +21,7 @@ git clone <url-do-repositorio>
 2. Navegue até o diretório do projeto:
 
 ```
-cd aula47
+cd eda
 ```
  3. Instale as dependências do projeto:
 ```
